@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hi <code>src/App.js</code> and save to reload.
           And this is react native amazon-clone project
         </p>
         <a
